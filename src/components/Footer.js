@@ -2,10 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiOutlineMail,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaStackOverflow } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -33,12 +32,12 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/imran471876"
+                href="https://stackoverflow.com/users/19734722/imran-malik"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <FaStackOverflow />
               </a>
             </li>
             <li className="social-icons">
