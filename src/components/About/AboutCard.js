@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Front End Developer </span>
             from <span className="purple"> Pakistan.</span>
-            <br />I am a Computer Science Graduate from Government College University, Lahore. I have three years pf experience in Front end development.
+            <br />I am a Computer Science Graduate from Government College University, Lahore. I have four years of experience in Front end development.
             I enjoys the problem solving and coding. Always strive to learn new things and give my 100%. I can make website for your business to grow up your sales.
             <br />
             <br />
