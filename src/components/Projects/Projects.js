@@ -31,7 +31,7 @@ function Projects() {
               imgPath={eb3hire}
               isBlog={false}
               title="Eb3hire"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
               imgPath={sectie5}
               isBlog={false}
               title="Sectie5"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               imgPath={ambar}
               isBlog={false}
               title="Ambar Immigration"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               imgPath={meshwork}
               isBlog={false}
               title="Meshwork"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={gorillapower}
               isBlog={false}
               title="Gorillapower"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -81,7 +81,7 @@ function Projects() {
               imgPath={matarat}
               isBlog={false}
               title="Matarat"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -91,7 +91,7 @@ function Projects() {
               imgPath={gaterepair}
               isBlog={false}
               title="Gate Repair"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -101,7 +101,7 @@ function Projects() {
               imgPath={mastermindsolar}
               isBlog={false}
               title="mastermindsolar"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
@@ -111,7 +111,7 @@ function Projects() {
               imgPath={squarescafe}
               isBlog={false}
               title="4squarescafe"
-              weblink="https://github.com/imranmalik471"
+              weblink="https://github.com/imranmalikdev"
             />
           </Col>
 
