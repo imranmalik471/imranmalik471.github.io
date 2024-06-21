@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am front-end developer with more than 4 years of experience and, 
+              I am a front-end developer with more than 4 years of experience and, 
               <br />I have experise in
               <i>
                 <b className="purple"> HTML, CSS, Sass, Bootstrap, Javascript and JQuery. </b>
@@ -64,7 +64,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/imranmalikdev"
+                  href="https://github.com/imranmalik471"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
